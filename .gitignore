@@ -36,3 +36,15 @@ npm-debug.log
 /autenticacao-manual/.env
 /autenticacao-manual/vscode
 /autenticacao-manual/.vscode
+/autorizacao/node_modules
+/autorizacao/public/hot
+/autorizacao/public/storage
+/autorizacao/vendor
+/autorizacao/.idea
+/autorizacao/.vagrant
+/autorizacao/Homestead.json
+/autorizacao/Homestead.yaml
+/autorizacao/npm-debug.log
+/autorizacao/.env
+/autorizacao/vscode
+/autorizacao/.vscode
